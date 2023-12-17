@@ -1,0 +1,40 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAgIgIAAAAAAAIAIDgRAAAgPC/C0hNAAAIv/sP//8AgPC73/2Zaf+Qv/v/159p/4C/+93dn3kPgL/73d2feQ+QH/v/159p/5Dwsd/9mWn/AAkf+w///wAAEPC/C0hNAAAAAQCA4EQAAACQiQkAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hello World"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAJmImAgAAAAQ8P//gAAAAAG/u7sPCACQ8Luxu/uAAJDwG7u7+4AAgPCxu/39gACQ8Lu7/f2AABDwu9t9/YAAAAj/390PCAAAgADw/4AAAAAACJ+ZDwAAAADw9JkPAAAAAPD9mQ8AAAAA8P1mBwAAAADw//8PAAAAAAD/DwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "L Swim"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAD/DwAAAAAA8P//DwAAAADw/WYHAAAAAPD9mQ8AAAAA8PSZDwAAAAAIn5kPAAAAgADw/4AAAAAI/9/dDwgAEPC72339gACQ8Lu7/f2AAIDwsbv9/YAAkPAbu7v7gACQ8Luxu/uAAAABv7u7DwgAABDw//+AAAAAAJmImAgAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "R Swim"
+    },
+    "image4": {
+        "data": "hwQPAA8AAACWERERERERAZYREREREREBlhEREREREQGWERERERERAZYREREREREBlhEREREREQGWERERERERAZYREREREREBlhEREREREQGWERERERERAZYREREREREBlhEREREREQGXERERERERAZIREREREREBnxEREREREQE=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Text Box"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA=",
+        "displayName": "myAnim"
+    },
+    "song1": {
+        "data": "00780004080200",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
